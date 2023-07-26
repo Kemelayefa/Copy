@@ -31,11 +31,13 @@
 }
 .name-row{
     border:2px solid lightgrey;
-    width:155px;
+    
         
 }
 .name{
     padding-left:5px;
+    width:150px;
+
 }
 
 .password-row{
